@@ -19,3 +19,5 @@ If you are using the data or code from this research then please site our paper 
     address = "Marseille, France",
     publisher = "European Language Resources Association (ELRA)"
     }
+
+Data can be accessed by mailing authors bharathiraja.akr@gmail.com and sharduls055@gmail.com. 
